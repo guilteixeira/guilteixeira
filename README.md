@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/guilteixeira)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat&logoColor=white)](https://www.python.org/)
-[![Node](https://img.shields.io/badge/Aprendendo-Node-green?style=flat&logo=nodedotjs)](https://nodejs.org)
-[![Rust](https://img.shields.io/badge/Aprendendo-Rust-orange?style=flat&logo=rust)](https://doc.rust-lang.org/book/)
+[![Node](https://img.shields.io/badge/Node-black?style=flat&logo=nodedotjs)](https://nodejs.org)
+[![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust)](https://doc.rust-lang.org/book/)
 
 
 
