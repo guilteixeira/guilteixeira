@@ -8,21 +8,12 @@
 
 
 
-**Especialista em Segurança da Informação** | **AppSec | Defensive Security | CTI**
+**Tech Lead em Application Security** | **AppSec | Defensive Security | CTI | Blue Team**
 
-Atualmente trabalho com segurança defensiva voltada a aplicações, revisando código de produtos reais para detectar vulnerabilidades como:
+Atualmente trabalho com segurança defensiva voltada a aplicações, revisando código de produtos diversos (B2B e B2C) para detectar vulnerabilidades como:
 
 - XSS, CSRF, Type Juggling, Insecure Deserialization
 - Injeções lógicas e falhas de autorização (BOLA, BOPLA e etc)
 - Análises de exposição e hardenings contínuos
 
 ---
-
-### Tecnologias e Interesses
-
-- **AppSec**, Threat Intelligence, análise de vulnerabilidades
-- **Python** seguro e com tipagem (sim, dá pra ser chato com types)
-- **Rust** — aprendizado em andamento, mas já virou paixão
-- **AWS** Lambda, DynamoDB, S3, Serverless, LocalStack, Docker (o suficiente para não passar fome)
-- Automatização de resposta ativa a incidentes e detecção de intrusão, integração de APIs, e outros processamentos customizados envolvendo segurança de aplicativos
-
