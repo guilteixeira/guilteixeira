@@ -15,5 +15,3 @@ Atualmente trabalho com segurança defensiva voltada a aplicações, revisando c
 - XSS, CSRF, Type Juggling, Insecure Deserialization
 - Injeções lógicas e falhas de autorização (BOLA, BOPLA e etc)
 - Análises de exposição e hardenings contínuos
-
----
